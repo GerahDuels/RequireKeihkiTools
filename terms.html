@@ -1,0 +1,175 @@
+TERMS OF SERVICE
+
+Effective Date: [DATE]
+
+These Terms of Service ("Terms", "Terms of Service", or "Agreement") constitute a legally relevant framework governing the access to, interaction with, and use of [BOT NAME] (the "Bot", "Service", "Application", or "System"), a software application designed to operate through the Discord platform.
+
+By inviting, accessing, interacting with, commanding, configuring, or otherwise utilizing the Bot, you acknowledge that you have reviewed, understood, and agreed to be bound by these Terms. If you do not agree with any provision contained herein, you should refrain from adding, accessing, configuring, or otherwise utilizing the Bot.
+
+1. DEFINITIONS
+
+For purposes of these Terms, the expressions "Bot", "Service", "Application", and "System" refer collectively to the Discord application operated by the Service Operator.
+
+"User" refers to any individual who interacts with, accesses, invokes commands through, or otherwise utilizes the Bot.
+
+"Server" refers to any Discord server, community, guild, or comparable environment in which the Bot has been installed, authorized, or otherwise granted access.
+
+"Operator", "we", "us", and "our" refer to the individual, organization, or entity responsible for the operation and maintenance of the Bot.
+
+"Discord" refers to Discord Inc. and the services, infrastructure, software, and platform made available by Discord.
+
+2. ACCEPTANCE OF TERMS
+
+Your use of the Bot constitutes acceptance of these Terms. Such acceptance may occur through installation, authorization, invitation, command execution, configuration, or any other voluntary interaction with the Service.
+
+If you are accessing the Bot on behalf of another person, organization, community, or Server, you represent that you possess sufficient authority to do so and that your use of the Bot does not knowingly violate any applicable contractual, platform-specific, organizational, or legal requirement.
+
+3. ELIGIBILITY
+
+You are responsible for ensuring that your use of the Bot complies with the applicable age requirements, contractual requirements, and platform rules governing your use of Discord.
+
+The Bot is intended to operate within the functionality and permissions made available through Discord's platform. Nothing contained within these Terms shall be interpreted as granting permission to circumvent, disable, manipulate, or interfere with security mechanisms imposed by Discord or any other applicable service.
+
+4. USE OF THE SERVICE
+
+The Bot may provide functionality including, but not necessarily limited to, automated commands, server utilities, moderation-related functionality, informational responses, configuration features, logging functionality, automation, integrations, and other functionality determined by the Operator.
+
+The exact functionality available to a User may vary according to the configuration of the Server, the permissions granted to the Bot, technical limitations, changes to the Bot, or changes implemented by Discord.
+
+Users agree not to intentionally utilize the Bot for activities that are unlawful, fraudulent, abusive, malicious, destructive, or reasonably intended to interfere with the normal operation of the Bot, Discord, or another user's computing environment.
+
+5. DISCORD PLATFORM
+
+The Bot operates through Discord and may depend upon Discord's APIs, infrastructure, permissions, and other technical services.
+
+The Bot is not intended to represent itself as Discord, nor does the operation of the Bot constitute an assertion that the Bot is owned, operated, endorsed, sponsored, or officially affiliated with Discord unless explicitly stated otherwise.
+
+Users remain responsible for complying with Discord's applicable Terms of Service, Community Guidelines, Developer Terms, Developer Policies, and other applicable rules.
+
+If Discord modifies, restricts, suspends, terminates, or otherwise changes an API, permission, service, or technical capability upon which the Bot depends, the functionality of the Bot may consequently be reduced, modified, suspended, or discontinued.
+
+6. PERMISSIONS
+
+Certain Bot functionality may require permissions within a Discord Server.
+
+Server administrators and authorized personnel are responsible for determining whether the permissions granted to the Bot are appropriate for their particular Server.
+
+The Operator does not encourage granting permissions beyond those reasonably required for the intended functionality of the Bot.
+
+Users and Server administrators should review the requested permissions before authorizing the Bot.
+
+7. PROHIBITED USE
+
+You agree not to use the Bot to:
+
+(a) intentionally violate applicable law or regulation;
+
+(b) facilitate harassment, abuse, fraud, or malicious activity;
+
+(c) intentionally compromise or attempt to compromise the security of another account, Server, system, or service;
+
+(d) interfere with the availability or performance of the Bot;
+
+(e) attempt to reverse engineer, exploit, bypass, or circumvent security mechanisms for malicious purposes;
+
+(f) use the Bot in a manner that violates Discord's applicable rules or policies;
+
+(g) transmit malicious software, harmful code, or intentionally destructive content through the Service;
+
+(h) intentionally abuse automated functionality in a manner that creates unreasonable load or disruption; or
+
+(i) use the Bot for any purpose that is materially inconsistent with its intended functionality.
+
+8. AVAILABILITY
+
+The Operator may attempt to maintain reasonable availability of the Service but does not guarantee that the Bot will remain continuously available, uninterrupted, error-free, or compatible with every Discord environment.
+
+The Service may become temporarily unavailable due to maintenance, technical failures, software changes, infrastructure failures, API changes, network interruptions, security incidents, or circumstances outside the reasonable control of the Operator.
+
+9. MODIFICATIONS
+
+The Operator reserves the ability to modify, replace, update, suspend, or discontinue any portion of the Bot at any time.
+
+Changes may include modifications to functionality, commands, permissions, integrations, data practices, technical architecture, or other aspects of the Service.
+
+Continued use of the Bot following a material modification to these Terms may constitute acceptance of the revised Terms, to the extent permitted by applicable law.
+
+10. TERMINATION
+
+The Operator may restrict, suspend, or terminate access to the Bot where reasonably necessary, including where a User violates these Terms, abuses the Service, creates a security risk, or otherwise uses the Service in a manner that may adversely affect the Bot, its users, or its infrastructure.
+
+A Server administrator may remove the Bot from their Server at any time by using the mechanisms provided by Discord.
+
+Upon removal, certain information may remain temporarily within backups, logs, databases, or other technical systems where retention is reasonably necessary for security, legal, operational, or technical purposes.
+
+11. INTELLECTUAL PROPERTY
+
+Unless otherwise stated, the Bot's software, original source code, visual materials, branding, documentation, configuration, and associated materials remain the property of the Operator or their respective rights holders.
+
+Nothing within these Terms automatically transfers ownership of intellectual property from the Operator to a User.
+
+Users receive only the limited authorization necessary to interact with the Service in accordance with these Terms.
+
+12. THIRD-PARTY SERVICES
+
+The Bot may interact with third-party services, APIs, hosting providers, databases, or other external infrastructure.
+
+The Operator may not control the availability, policies, security, functionality, or practices of third-party services.
+
+Use of a third-party service may therefore be subject to that provider's separate terms, policies, and conditions.
+
+13. DISCLAIMER
+
+To the maximum extent permitted by applicable law, the Bot is provided on an "as available" and "as is" basis.
+
+The Operator makes no representation that the Service will always operate without interruption, defects, delays, errors, or incompatibilities.
+
+Nothing in these Terms shall be interpreted as excluding any protection or right that cannot legally be excluded under applicable law.
+
+14. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Operator shall not be responsible for indirect, incidental, consequential, special, exemplary, or similar damages arising from or relating to the use or inability to use the Service.
+
+This limitation does not attempt to exclude liability that cannot lawfully be excluded or limited.
+
+15. USER RESPONSIBILITY
+
+Users remain responsible for their own conduct, content, permissions, account security, Server configuration, and decisions made while using the Bot.
+
+The existence of the Bot within a Server does not transfer administrative responsibility from Server owners, administrators, moderators, or other authorized personnel to the Operator.
+
+16. PRIVACY
+
+Information relating to the collection, use, retention, processing, and protection of information associated with the Bot is described in the Bot's Privacy Policy.
+
+The Privacy Policy forms a complementary component of these Terms.
+
+17. CHANGES TO THESE TERMS
+
+These Terms may be revised from time to time.
+
+Where appropriate, the Operator may indicate that a revision has occurred by updating the Effective Date displayed at the beginning of this document.
+
+Users are encouraged to periodically review the current version of these Terms.
+
+18. CONTACT
+
+Questions, concerns, requests, or communications relating to these Terms may be directed to:
+
+[CONTACT EMAIL]
+
+19. GOVERNING PRINCIPLES
+
+These Terms shall be interpreted in accordance with applicable law and principles relevant to the jurisdiction in which the Operator is legally established, except where applicable law requires otherwise.
+
+20. SEVERABILITY
+
+If any provision of these Terms is determined to be invalid, unlawful, or unenforceable, that provision shall be interpreted or limited to the minimum extent necessary, and the remaining provisions shall continue to the extent permitted by applicable law.
+
+21. ENTIRE AGREEMENT
+
+These Terms, together with the Privacy Policy and any additional terms expressly incorporated by reference, constitute the principal agreement governing the User's interaction with the Service.
+
+By continuing to use the Bot, you acknowledge that you have had a reasonable opportunity to review these Terms and agree to comply with their applicable provisions.
+
+END OF TERMS OF SERVICE
